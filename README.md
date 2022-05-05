@@ -1,5 +1,9 @@
 # 💫About Me :
-////////  DESC HERE ///////
+
+🔭 I’m currently working as a Freelancer.<br>
+🌱 Currently learning Java, CSS, PHP, MySql, Python, JavaScript & HTML.<br>
+👨‍🎓 I am Studied at Institute Of Java and Software Engineering(IJSE).<br>
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/KiDKaVii#1697) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavindu.thiwanka.925) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavindu.thiwanka0) 
