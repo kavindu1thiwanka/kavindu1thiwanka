@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Header](https://i.postimg.cc/66V5cdvL/giphy-1.gif "Header")](https://some-url.dev/)
+
+
+# Hello, folks!   <img src="https://i.postimg.cc/x8s89zM4/giphy-5.giff" width="30px">
 
 <!--
 **kavindu1thiwanka/kavindu1thiwanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
